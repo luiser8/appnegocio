@@ -1,0 +1,8 @@
+[0923/123259.964:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Luis\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\e1d78516-13bf-49e8-943c-0049fd2d9ab3.dmp: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso. (0x20)
+[1009/081041.868:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1012/085957.880:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1012/103340.685:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1013/093914.813:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1016/092358.689:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1020/131527.499:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1022/111040.767:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
