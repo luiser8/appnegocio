@@ -5,8 +5,8 @@ module.exports = global.config = {
             prod: 'http://192.168.1.59/Pandemik/api/'
         }, 
         credentials: {
-            googleMapsKey: 'AIzaSyB0c7Oaoom8FtcCn46Eggfh8huka7rmOpc',
-            mapUrl: 'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyAGsIHQthYktxakOhGokx46w06MsRVDo7g',
+            googleMapsKey: 'KEY',
+            mapUrl: 'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=KEY',
         },
         headers :{
             dev: new Headers({'Content-Type': 'application/json;charset=UTF-8'}),
